@@ -7,9 +7,7 @@ import { X } from "lucide-react";
 
 const WHATSAPP_URL =
   "https://wa.me/5551981714117?text=" +
-  encodeURIComponent(
-    "Oi! Vi a prévia do site da ABDO feita pela Upscalead e queria saber mais."
-  );
+  encodeURIComponent("olá Yan, bora fechar este projeto!");
 
 export default function PreviewBadge() {
   const [dismissed, setDismissed] = useState(false);
