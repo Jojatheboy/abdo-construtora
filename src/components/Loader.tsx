@@ -69,7 +69,7 @@ export default function Loader({ children }: { children: React.ReactNode }) {
               </div>
 
               <p className="font-mono uppercase text-[10px] tracking-[0.28em] text-[var(--foreground-mute)]">
-                Construindo desde 1997
+                Construindo desde 1992
               </p>
             </motion.div>
           </motion.div>

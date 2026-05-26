@@ -14,7 +14,7 @@ import ContactFooter from "@shared/blocks/ContactFooter";
 import { IconBrandFacebook, IconBrandInstagram } from "@tabler/icons-react";
 import { empreendimentos, type Status } from "@/lib/empreendimentos";
 
-// --- DADOS DO CLIENTE (ABDO Construções · Itajaí/SC · desde 1997) ---
+// --- DADOS DO CLIENTE (ABDO Construções · Itajaí/SC · desde 1992) ---
 
 const PHONE = "(47) 3349-3811";
 const WHATSAPP_URL = "https://wa.me/554733493811";
@@ -35,7 +35,7 @@ export default function Home() {
             {
               kind: "headline",
               bgImage: "/images/le-havre-fachada.jpg",
-              tag: "ABDO Construções · desde 1997",
+              tag: "ABDO Construções · desde 1992",
               titleWords: ["Há", "28", "anos", "construindo", "histórias", "no", "litoral", "catarinense."],
               metallicWordIndices: [4],
               subtitle:

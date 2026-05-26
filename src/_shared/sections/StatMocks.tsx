@@ -7,7 +7,7 @@
 const ACCENT = "var(--accent)";
 const DIM = "rgba(31,58,138,0.18)";
 
-/** Timeline com 4 marcos: 1997 · 2005 · 2015 · 2026 */
+/** Timeline com 4 marcos: 1992 · 2005 · 2015 · 2026 */
 export function TimelineMock() {
   return (
     <svg
@@ -48,7 +48,7 @@ export function TimelineMock() {
         textAnchor="middle"
       >
         <text x="6" y="34" className="tl-dot">
-          1997
+          1992
         </text>
         <text x="114" y="34" className="tl-dot">
           2026
