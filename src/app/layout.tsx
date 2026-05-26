@@ -26,11 +26,11 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "ABDO Construções e Incorporações | 28 anos construindo em Itajaí",
+  title: "ABDO Construções e Incorporações | 34 anos construindo em Itajaí",
   description:
-    "Construtora ABDO. 28 anos construindo apartamentos com padrão de qualidade em Itajaí, Balneário Camboriú e Navegantes. 8 empreendimentos entregues, 212 unidades, 25 mil m² construídos.",
+    "Construtora ABDO. 34 anos construindo apartamentos com padrão de qualidade em Itajaí, Balneário Camboriú e Navegantes. 8 empreendimentos entregues, 212 unidades, 25 mil m² construídos.",
   openGraph: {
-    title: "ABDO Construções e Incorporações | 28 anos em Itajaí",
+    title: "ABDO Construções e Incorporações | 34 anos em Itajaí",
     description:
       "8 empreendimentos entregues. 212 unidades. 25 mil m² construídos no litoral de Santa Catarina.",
     type: "website",

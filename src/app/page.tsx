@@ -72,9 +72,9 @@ export default function Home() {
         <AboutSection
           number={1}
           tag="A Construtora"
-          headline="28 anos construindo no litoral de SC."
+          headline="34 anos construindo no litoral de SC."
           paragraphs={[
-            "A ABDO Construções e Incorporações LTDA, com sede em Itajaí (SC), atua há mais de 28 anos no segmento da construção civil no estado, com edificações verticais multifamiliares.",
+            "A ABDO Construções e Incorporações LTDA, com sede em Itajaí (SC), atua há mais de 34 anos no segmento da construção civil no estado, com edificações verticais multifamiliares.",
             "Nossa missão é construir e comercializar apartamentos com padrão de qualidade e preços competitivos, aprimorando a tecnologia aplicada ao processo e proporcionando condições adequadas de trabalho à nossa equipe.",
           ]}
           footnote="CNPJ 95.791.695/0001-83 · Itajaí — Santa Catarina"
@@ -144,7 +144,7 @@ export default function Home() {
             {
               question: "Em quais cidades a ABDO constrói?",
               answer:
-                "Itajaí (sede), Balneário Camboriú e Navegantes. Em 28 anos entregamos 8 empreendimentos nessas cidades, somando 212 unidades e 25 mil m² de área construída.",
+                "Itajaí (sede), Balneário Camboriú e Navegantes. Em 34 anos entregamos 8 empreendimentos nessas cidades, somando 212 unidades e 25 mil m² de área construída.",
             },
             {
               question: "Vocês trabalham com investidores e corretores parceiros?",
@@ -212,7 +212,7 @@ export default function Home() {
           logo: "/images/logo-abdo-full.png",
           logoAlt: "ABDO Construtora",
           description:
-            "Há mais de 28 anos construindo apartamentos com padrão de qualidade no litoral catarinense. Itajaí, Balneário Camboriú e Navegantes.",
+            "Há mais de 34 anos construindo apartamentos com padrão de qualidade no litoral catarinense. Itajaí, Balneário Camboriú e Navegantes.",
           social: [
             { Icon: IconBrandFacebook, label: "Facebook", href: "https://facebook.com/abdoconstrutora" },
             { Icon: IconBrandInstagram, label: "Instagram", href: "https://instagram.com/abdoconstrutora" },

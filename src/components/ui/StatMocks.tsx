@@ -14,7 +14,7 @@ export function TimelineMock() {
       viewBox="0 0 120 40"
       className="w-full h-9"
       role="img"
-      aria-label="Linha do tempo de 28 anos"
+      aria-label="Linha do tempo de 34 anos"
     >
       <style>{`
         .tl-line { stroke-dasharray: 100; stroke-dashoffset: 100; animation: tl-draw 1.8s 0.2s forwards cubic-bezier(.16,1,.3,1); }

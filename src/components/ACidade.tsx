@@ -138,7 +138,7 @@ export default function ACidade() {
                 Itajaí, SC.
               </p>
               <p className="font-mono uppercase text-[10px] tracking-[0.18em] text-white/40 mt-3">
-                Onde a ABDO constrói há 28 anos
+                Onde a ABDO constrói há 34 anos
               </p>
             </div>
           </div>
