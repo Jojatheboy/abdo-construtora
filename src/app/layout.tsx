@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Instrument_Serif, DM_Serif_Display, Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
+import PreviewBadge from "@/_shared/floating-cta/PreviewBadge";
 
 const instrument = Instrument_Serif({
   variable: "--font-instrument",
@@ -49,6 +50,7 @@ export default function RootLayout({
     >
       <body className="min-h-screen bg-[var(--background)] text-[var(--foreground)] antialiased">
         {children}
+        <PreviewBadge />
       </body>
     </html>
   );
